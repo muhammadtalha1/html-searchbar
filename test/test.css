@@ -1,0 +1,49 @@
+.container
+{
+	position: absolute;
+	left:50%;
+	margin-left: -175px;
+	top: 50%;
+	margin-top: -75px;
+	padding:10px;
+	border: 2px;
+	background-color: #e08e67e0;
+	height:150px;
+	width:350px;
+}
+.inlineblocks
+{
+	padding:10px;
+	margin:10px;
+	border-left: 3px solid #ffc900ab;
+	background-color: #f9f9f9;
+	height:100px;
+	width:300px;
+	
+	}
+
+#textarea
+{
+	float:left;
+	width: 160px;
+	padding:10px;
+	margin-top:30px;
+	margin-left:10px;
+	text-align: center-left;
+	border-radius: 5px;
+	font-size: 15px;
+}
+#searchbutton
+{
+	font-size: 15px;
+	float:right;
+	width: 100px;
+	padding:10px;
+	margin-top:30px;
+	margin-right:10px;
+	text-align: center;
+	border-radius: 5px;
+	background-color: #ff2212e8;
+
+
+}
